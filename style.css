@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/444/479/808/flowers-yellow-flowers-black-background-digital-art-wallpaper-preview.jpg');
+    background: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30%;
+}
+
+.container p {
+    margin: 5px 0; /* Add a small margin between the paragraphs */
+    color: white;
+}
+
+h1, h1{
+    text-align: center;
+    color: white;
+}
+
+h2, h2, h3 {
+    text-decoration: underline;
+    color: white;
+}
+ol{
+    color:white;
+}
+ul{
+    color: white;
+}
+p{
+    color: white;
+}
+
+
+
+
